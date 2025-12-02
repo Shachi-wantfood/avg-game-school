@@ -44,9 +44,117 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - " \u5C0F\u5149"
+      - 
+      - "\u666E\u901A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - g2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u6050\u61FC"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - g1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u963F\u5091"
+      - 
+      - "\u5805\u5B9A"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - b normol.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u4E0D\u5B89"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - b terrible.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u5C0F\u96C5"
+      - 
+      - "\u7406\u6027"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - normol.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u6050\u61FC"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - terrible.pmg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232124/Scenarios/61232124.xls:Character
     type: 1
-    textLength: 166
+    textLength: 245
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0a62b68dc98b6674495e86c4eba26ef2, type: 3}
   - rows:
