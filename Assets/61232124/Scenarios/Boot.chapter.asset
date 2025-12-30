@@ -47,7 +47,7 @@ MonoBehaviour:
     - rowIndex: 1
       debugIndex: 1
       strings:
-      - " \u5C0F\u5149"
+      - "\u5C0F\u5149"
       - 
       - "\u666E\u901A"
       - 
@@ -154,7 +154,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232124/Scenarios/61232124.xls:Character
     type: 1
-    textLength: 245
+    textLength: 244
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0a62b68dc98b6674495e86c4eba26ef2, type: 3}
   - rows:

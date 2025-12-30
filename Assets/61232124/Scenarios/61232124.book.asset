@@ -57,7 +57,7 @@ MonoBehaviour:
       debugIndex: 3
       strings:
       - 
-      - " \u5C0F\u5149"
+      - "\u5C0F\u5149"
       - "\u6050\u61FC"
       - "\u5DE6"
       - 
@@ -155,7 +155,7 @@ MonoBehaviour:
       - 
       - "\u5C0F\u5149"
       - "\u6050\u61FC"
-      - "\u5DE6"
+      - "\u4E2D\u9593"
       - 
       - 
       - 
@@ -170,7 +170,7 @@ MonoBehaviour:
       - 
       - "\u5C0F\u5149"
       - "\u6050\u61FC"
-      - "\u5DE6"
+      - "\u4E2D\u9593"
       - 
       - 
       - 
@@ -263,7 +263,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232124/Scenarios/61232124.xls:Start
     type: 1
-    textLength: 323
+    textLength: 324
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0a62b68dc98b6674495e86c4eba26ef2, type: 3}
     entityIndexTbl: 
@@ -300,7 +300,7 @@ MonoBehaviour:
     - rowIndex: 1
       debugIndex: 1
       strings:
-      - " \u5C0F\u5149"
+      - "\u5C0F\u5149"
       - 
       - "\u666E\u901A"
       - 
@@ -407,7 +407,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232124/Scenarios/61232124.xls:Character
     type: 1
-    textLength: 245
+    textLength: 244
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0a62b68dc98b6674495e86c4eba26ef2, type: 3}
   - rows:
@@ -856,7 +856,7 @@ MonoBehaviour:
       debugIndex: 3
       strings:
       - 
-      - " \u5C0F\u5149"
+      - "\u5C0F\u5149"
       - "\u6050\u61FC"
       - "\u5DE6"
       - 
@@ -954,7 +954,7 @@ MonoBehaviour:
       - 
       - "\u5C0F\u5149"
       - "\u6050\u61FC"
-      - "\u5DE6"
+      - "\u4E2D\u9593"
       - 
       - 
       - 
@@ -969,7 +969,7 @@ MonoBehaviour:
       - 
       - "\u5C0F\u5149"
       - "\u6050\u61FC"
-      - "\u5DE6"
+      - "\u4E2D\u9593"
       - 
       - 
       - 
@@ -2337,6 +2337,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232124/Scenarios/61232124.xls:Start
     type: 1
-    textLength: 323
+    textLength: 324
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: 0a62b68dc98b6674495e86c4eba26ef2, type: 3}
